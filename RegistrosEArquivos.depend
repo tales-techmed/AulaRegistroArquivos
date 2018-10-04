@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1538667317 source:c:\users\tales\documents\sistemas de informação - 2018-2\algoritmos ii\estruturas e registros\registrosearquivos\registros.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<math.h>
+
+1538672785 source:c:\users\tales\documents\sistemas de informação - 2018-2\algoritmos ii\estruturas e registros\registrosearquivos\arquivoformatado.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+
+1538671673 source:c:\users\tales\documents\sistemas de informação - 2018-2\algoritmos ii\estruturas e registros\registrosearquivos\arquivochar.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+
+1538673368 source:c:\users\tales\documents\sistemas de informação - 2018-2\algoritmos ii\estruturas e registros\registrosearquivos\arquivostruct.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+
